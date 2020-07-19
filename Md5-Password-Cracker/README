@@ -1,0 +1,9 @@
+This is a Md5 Password Cracker
+
+It work as follows:
+
+1. You enter a hash
+
+2. You enter a dictionary - which is a file containing potential passwords
+
+3. The programs outputs if the password is found or not in the dictionary
