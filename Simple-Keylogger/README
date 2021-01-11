@@ -1,0 +1,9 @@
+This is a Keylogger : It logs the keys pressed on the keyboard
+
+How to use it :
+
+python3 keylogger.py
+
+It starts then saves the pressed keys in a file called "log.txt"
+
+
