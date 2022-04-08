@@ -1,5 +1,12 @@
-mysuper
-secret
-password
-is
-Key.shift123456789Key.esc
+
+Keylogger started at: 2022-04-08 23:05:22.516373
+test1
+this is a testKey.esc
+Keylogger started at: 2022-04-08 23:06:02.196026
+tee st2
+secondts  test
+Key.esc
+Keylogger started at: 2022-04-08 23:07:54.028132
+test3
+third try
+Key.esc
